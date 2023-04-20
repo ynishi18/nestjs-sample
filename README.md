@@ -14,3 +14,8 @@
 
 dreddを実行したあとに自動で起動したアプリのプロセスをkillしてくれないため `lsof -i :3000` で3000ポートを使用しているプロセスを調べてkillコマンドを実行する必要がある。
 
+## nestjs-tutorial
+
+[NestJS REST API 開発 チュートリアル集](https://zenn.dev/mikakane/books/nestjs-tutorial)の書写
+
+PostgreSQLはdocker-composeで用意するようにした
