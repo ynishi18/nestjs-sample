@@ -19,3 +19,10 @@ dreddを実行したあとに自動で起動したアプリのプロセスをkil
 [NestJS REST API 開発 チュートリアル集](https://zenn.dev/mikakane/books/nestjs-tutorial)の書写
 
 PostgreSQLはdocker-composeで用意するようにした
+
+## ref.
+
+[ys memos tag:nestjs](https://ysuzuki19.github.io/tag/nestjs)
+
+nestjsの入門コースを連載している
+
